@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launchConfiguration type="com.appcelerator.titanium.desktop.launchConfigurationType">
+<stringAttribute key="ATTR_LOG_LEVEL" value="Trace"/>
+<stringAttribute key="ATTR_PROJECT_NAME" value="desktop001"/>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/desktop001"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="4"/>
+</listAttribute>
+</launchConfiguration>

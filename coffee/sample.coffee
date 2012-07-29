@@ -1,0 +1,4 @@
+
+
+test_js_call = () ->
+  alert "**** test_js_call ************"

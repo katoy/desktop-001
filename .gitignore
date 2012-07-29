@@ -1,0 +1,8 @@
+*.class
+*.pyc
+*.pyo
+dist/
+*.log
+*.*~
+.DS_Store
+Gemfile.lock

@@ -1,0 +1,6 @@
+
+def test_call()
+  print "test***********"
+end
+
+test_call()

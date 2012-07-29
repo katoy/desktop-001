@@ -1,0 +1,8 @@
+from sys import *
+
+def test_call():
+    sys.stdout.write('\a')
+    sys.stdout.flush()
+
+#test_call()
+

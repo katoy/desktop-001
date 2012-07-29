@@ -1,0 +1,5 @@
+
+def test_call()
+  print "test***********¥n"
+
+test_call()

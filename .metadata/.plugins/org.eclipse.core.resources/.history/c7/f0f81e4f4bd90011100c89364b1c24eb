@@ -1,0 +1,6 @@
+from winsound import *
+
+def test_call():
+    MessageBeep()
+
+#test_call()

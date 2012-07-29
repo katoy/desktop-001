@@ -1,0 +1,7 @@
+
+def test_call()
+  print "test***********\n"
+  STDOUT.flush
+end
+
+# test_call()
